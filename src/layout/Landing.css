@@ -1,0 +1,18 @@
+.LandingPersonalRow{
+height: 151px;
+width: 310px;
+margin:auto!important;
+width:420px;
+
+}
+
+h1{
+color: rgba(0, 0, 0, 0.87);
+font-size: 20px;
+font-weight: 500;
+height: 24px;
+letter-spacing: 0px;
+width: 146px;
+margin-top: 10%;
+margin-left: 44%;
+}

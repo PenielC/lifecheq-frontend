@@ -1,0 +1,73 @@
+.card{
+background: rgb(255, 255, 255);
+border-radius: 2px;
+border: 1px solid rgb(224, 224, 224);
+height: 241px;
+width: 420px;
+margin:auto;
+}
+
+.ant-btn-primary:hover, .ant-btn-primary:focus{
+    background: rgb(0, 197, 163);
+    border-color: rgb(0, 197, 163);
+}
+
+.card-icon{
+    height:80px;
+    width:80px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:12%;
+}
+
+.card-description{
+    width: 241px;
+    height: 22px;
+    color: rgba(0, 0, 0, 0.47);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 22px;
+    margin-top: 3%;
+}
+
+.ant-drawer-title{
+  font-weight: bold;
+}
+
+.card-button{
+    width: 130px;
+    height: 32px;
+    background: rgb(0, 197, 163);
+    border-radius: 0px;
+    margin-top: 2%;
+    border-color: rgb(0, 197, 163);
+}
+
+.ant-btn-primary{
+    background: rgb(0, 197, 163);
+    border-color: rgb(0, 197, 163);
+}
+
+.ant-btn-link{
+    color: rgb(0, 197, 163);
+    margin-right:22%!important;
+}
+
+.ant-btn-link:hover{
+    color: rgb(0, 197, 163);
+}
+
+.ant-radio-input{
+    border: 1px solid rgb(0, 197, 163)!important;
+}
+
+.ant-radio-checked::after{
+    
+}
+
+.ant-radio-group::selection{
+  color: #fff;
+  background: rgb(0, 197, 163)!important;
+}
